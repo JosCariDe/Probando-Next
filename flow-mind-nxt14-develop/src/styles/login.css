@@ -1,0 +1,7 @@
+.bg{
+    background-image: url("../assets/images/lgbg.png");
+}
+
+.box-shadow{
+    box-shadow: 20px 0 0 -10px rgba(153, 214, 255, 0.4)
+}
